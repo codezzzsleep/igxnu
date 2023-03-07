@@ -1,0 +1,15 @@
+{
+    "name": "igxnu",
+    "version": "1.0.0",
+    "description": "igxnu-electron",
+    "main": "main.js",
+    "repository": "git@github.com:codezzzsleep/igxnu.git",
+    "author": "codezzzsleep <codezzzsleep@163.com>",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^23.1.2"
+    },
+    "scripts": {
+        "start": "electron ."
+    }
+}
